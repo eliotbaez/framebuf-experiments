@@ -1,0 +1,1 @@
+/sys/class/graphics/fb0/virtual_size
